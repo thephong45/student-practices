@@ -1,6 +1,5 @@
 names=["Alice","Bob"]
-print("Please input your name")
-name=input()
+name=()
 while name not in names:
     print("Please input your name")
     name = input()
