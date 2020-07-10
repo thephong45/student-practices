@@ -1,1 +1,3 @@
-# exercies
+# For
+
+Student commit their work
