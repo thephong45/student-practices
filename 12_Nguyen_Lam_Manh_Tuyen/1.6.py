@@ -21,5 +21,6 @@ while guess!=secretnum:
         #count times user have tried to input
         lov=list(set(lov))
         count=len(lov)+1
-        print("Bingo, You've guessed it correcly in {} times".format(count))
+        print("Bingo, You've guessed it correcly in {"
+              "} times".format(count))
 
