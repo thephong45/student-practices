@@ -1,7 +1,10 @@
 start=1
 print("Please input your number")
-end=int(input())
+end=input()
 sum=0
-for i in range(start,end+1):
+while end.isdigit()==False:
+    print("Your input is not a number, please try again")
+    end=input()
+for i in range(start,int(end)+1):
     sum=sum+i
 print("Sum from 1 to {} is {}".format(end,sum))
