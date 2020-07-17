@@ -24,3 +24,4 @@ else:
             print("Phuong trinh co 2 nghiem phan biet\n");
             print("x1 ={}".format((-b - math.sqrt(delta)) / (2 * a)))
             print("x2 ={}".format((-b + math.sqrt(delta)) / (2 * a)))
+

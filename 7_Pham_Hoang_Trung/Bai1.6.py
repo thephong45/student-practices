@@ -1,3 +1,4 @@
+
 import random
 score = 0
 somay = random.randint(1,20)
