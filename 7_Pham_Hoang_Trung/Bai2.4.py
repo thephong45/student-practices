@@ -8,3 +8,4 @@ def odd_positions(lists):
 
 lists = ['hihi', 1, 3, 'trung', 'hieu', 'lan']
 print(odd_positions(lists))
+

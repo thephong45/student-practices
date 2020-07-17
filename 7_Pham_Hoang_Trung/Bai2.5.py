@@ -10,3 +10,4 @@ def total(lists):
 listss = [1,2,3,5,5,4]
 print(total(listss))
 
+

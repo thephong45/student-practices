@@ -10,3 +10,4 @@ if(check_palindrome(strings)):
 else:
     print("khong la chuoi doi xung")
 
+
